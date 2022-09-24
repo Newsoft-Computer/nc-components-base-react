@@ -1,2 +1,3 @@
-# nc-switch
-NC Switch Component React - Styles JS, Based MaterialUI
+# NC Components Base + Props Styles - React
+
+- NC Components Base + Props Styles - React - Javascript, TypeScript
